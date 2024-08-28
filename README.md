@@ -1,4 +1,4 @@
-# covid-infection-ETL-sample-project
+# ETL-sample-project
 
 **Project Proposal:** 
 
