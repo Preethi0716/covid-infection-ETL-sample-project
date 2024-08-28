@@ -6,7 +6,7 @@ The objective is to explore COVID-19 infection data compiled by John Hopkins Uni
 
 **Data Extraction:** 
 
-The project utilizes data from data.humdata.org, compiled by John Hopkins University Center for Systems Science and Engineering (JHU CSSE) from various sources like the World Health Organization and other health departments. The dataset is continuously updated, so the analysis is narrowed to March 2020 for a focused examination of cases, deaths, and recoveries.
+The project utilizes data from https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases, compiled by John Hopkins University Center for Systems Science and Engineering (JHU CSSE) from various sources like the World Health Organization and other health departments. The dataset is continuously updated, so the analysis is narrowed to March 2020 for a focused examination of cases, deaths, and recoveries.
 
 **Data Cleanup and Transformation:**
 
